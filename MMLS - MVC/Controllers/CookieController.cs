@@ -54,11 +54,13 @@ namespace MMLS___MVC.Controllers
                 {
                     var cookieOptions = new CookieOptions
                     {
-                        Expires = DateTimeOffset.UtcNow.AddDays(1), // Cookie sẽ hết hạn sau 7 ngày
+                        Expires = DateTimeOffset.UtcNow.AddDays(1), // Cookie sẽ hết hạn sau 1 ngày
                         IsEssential = true, // Đảm bảo cookie được gửi
                         HttpOnly = true,    // Cookie chỉ có thể truy cập qua HTTP
                         Secure = true,      // Cookie chỉ được gửi qua HTTPS
+                        SameSite = SameSiteMode.Strict, // Chặn yêu cầu cross-site gửi kèm cookie
                     };
+
 
                     // Lưu thông tin người dùng vào cookie dưới dạng JSON
                     Response.Cookies.Append("Account", accountJson, cookieOptions);

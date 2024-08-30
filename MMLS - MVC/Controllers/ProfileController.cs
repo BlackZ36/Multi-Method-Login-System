@@ -41,5 +41,13 @@ namespace MMLS___MVC.Controllers
             return RedirectToAction("Index", "Home");
         }
 
+        [Route("Clear-all")]
+        public IActionResult ClearAll()
+        {
+            HttpContext.Session.Clear();
+            Response.Cookies.Delete("Account");
+            return RedirectToAction("Index", "Home");
+        }
+
     }
 }

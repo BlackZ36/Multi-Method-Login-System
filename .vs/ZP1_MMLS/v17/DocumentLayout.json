@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\duchi\\Desktop\\ZP1_MMLS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{566E9352-41CC-4F93-B01A-EFB0410B823C}|MMLS - MVC\\MMLS - MVC.csproj|c:\\users\\duchi\\desktop\\zp1_mmls\\mmls - mvc\\helper\\cookiehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{566E9352-41CC-4F93-B01A-EFB0410B823C}|MMLS - MVC\\MMLS - MVC.csproj|solutionrelative:mmls - mvc\\helper\\cookiehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{566E9352-41CC-4F93-B01A-EFB0410B823C}|MMLS - MVC\\MMLS - MVC.csproj|c:\\users\\duchi\\desktop\\zp1_mmls\\mmls - mvc\\helper\\accounthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{566E9352-41CC-4F93-B01A-EFB0410B823C}|MMLS - MVC\\MMLS - MVC.csproj|solutionrelative:mmls - mvc\\helper\\accounthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{566E9352-41CC-4F93-B01A-EFB0410B823C}|MMLS - MVC\\MMLS - MVC.csproj|c:\\users\\duchi\\desktop\\zp1_mmls\\mmls - mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{566E9352-41CC-4F93-B01A-EFB0410B823C}|MMLS - MVC\\MMLS - MVC.csproj|solutionrelative:mmls - mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{566E9352-41CC-4F93-B01A-EFB0410B823C}|MMLS - MVC\\MMLS - MVC.csproj|c:\\users\\duchi\\desktop\\zp1_mmls\\mmls - mvc\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{566E9352-41CC-4F93-B01A-EFB0410B823C}|MMLS - MVC\\MMLS - MVC.csproj|solutionrelative:mmls - mvc\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CookieHelper.cs",
+              "DocumentMoniker": "C:\\Users\\duchi\\Desktop\\ZP1_MMLS\\MMLS - MVC\\Helper\\CookieHelper.cs",
+              "RelativeDocumentMoniker": "MMLS - MVC\\Helper\\CookieHelper.cs",
+              "ToolTip": "C:\\Users\\duchi\\Desktop\\ZP1_MMLS\\MMLS - MVC\\Helper\\CookieHelper.cs",
+              "RelativeToolTip": "MMLS - MVC\\Helper\\CookieHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:28:32.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountHelper.cs",
+              "DocumentMoniker": "C:\\Users\\duchi\\Desktop\\ZP1_MMLS\\MMLS - MVC\\Helper\\AccountHelper.cs",
+              "RelativeDocumentMoniker": "MMLS - MVC\\Helper\\AccountHelper.cs",
+              "ToolTip": "C:\\Users\\duchi\\Desktop\\ZP1_MMLS\\MMLS - MVC\\Helper\\AccountHelper.cs",
+              "RelativeToolTip": "MMLS - MVC\\Helper\\AccountHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:28:16.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\duchi\\Desktop\\ZP1_MMLS\\MMLS - MVC\\Program.cs",
+              "RelativeDocumentMoniker": "MMLS - MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\duchi\\Desktop\\ZP1_MMLS\\MMLS - MVC\\Program.cs",
+              "RelativeToolTip": "MMLS - MVC\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wA0AAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:54:00.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ProfileController.cs",
               "DocumentMoniker": "C:\\Users\\duchi\\Desktop\\ZP1_MMLS\\MMLS - MVC\\Controllers\\ProfileController.cs",
               "RelativeDocumentMoniker": "MMLS - MVC\\Controllers\\ProfileController.cs",
               "ToolTip": "C:\\Users\\duchi\\Desktop\\ZP1_MMLS\\MMLS - MVC\\Controllers\\ProfileController.cs",
               "RelativeToolTip": "MMLS - MVC\\Controllers\\ProfileController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAYAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-27T20:22:44.689Z",
               "EditorCaption": ""

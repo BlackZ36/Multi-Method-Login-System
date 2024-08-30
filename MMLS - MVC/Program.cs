@@ -12,9 +12,10 @@ namespace MMLS___MVC
             //DI
             builder.Services.AddDbContext<ZP1_MMLSContext>(options =>
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-            builder.Services.AddAutoMapper(typeof(Program));
 
             //Mapper
+            builder.Services.AddAutoMapper(typeof(Program));
+
             //Session and Cookie
             builder.Services.AddSession(options =>
             {
